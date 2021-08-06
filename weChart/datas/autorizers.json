@@ -1,0 +1,6 @@
+{
+    "name":"公众号列表",
+    "url": "https://ym-be-wechat-admin-dev.baobaohehu.com/api/autorizers?page=1&pageSize=10",
+    "expect_code": 1000
+
+}
