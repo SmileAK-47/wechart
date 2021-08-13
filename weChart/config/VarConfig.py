@@ -18,5 +18,7 @@ reportPath = parentDirPath+"\\report\\"
 
 # 测试数据文件存放绝对路径
 # dataFilePath = parentDirPath + "\\testData\\126邮箱发送邮件.xlsx"
-#
+
+#test
+filePath = parentDirPath+"test111.txt"
 
